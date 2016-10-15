@@ -1,3 +1,3 @@
-# Hotel Database Managment System
+# Hotel Database Management System
 
-All details of the project at this link: https://github.com/romankhvorov/Hotel-Database-Managment-System/wiki
+All details of the project at this link: https://github.com/romankhvorov/Hotel-Database-Management-System/wiki
