@@ -1,0 +1,26 @@
+﻿<Window x:Class="HotelManagementSystem.DesktopUI.Authorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HotelManagementSystem.DesktopUI"
+        mc:Ignorable="d"
+        Title="Authorization" Height="200" Width="400"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Icon="/Images/Login.png">
+    <Grid>
+        <StackPanel Orientation="Horizontal" Margin="80 50 0 0">
+            <StackPanel Width="60">
+                <TextBlock Text="Login"/>
+                <TextBlock Text="Password" Margin="0 10 0 0"/>
+            </StackPanel>
+
+            <StackPanel Width="150">
+                <TextBox x:Name="tbLogin"/>
+                <PasswordBox x:Name="tbPassword" Margin="0 7 0 0"/>
+                <Button x:Name="btnLogin" Content="Login" Margin="0 7 0 0" Click="btnLogin_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

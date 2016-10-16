@@ -1,0 +1,5 @@
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Database\bin\Debug\HotelManagementSystem.Database.dacpac
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Database\bin\Debug\HotelManagementSystem.Database.dll
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Database\bin\Debug\HotelManagementSystem.Database.pdb
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Database\obj\Debug\HotelManagementSystem.Database.dll
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Database\obj\Debug\HotelManagementSystem.Database.pdb

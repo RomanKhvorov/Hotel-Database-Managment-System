@@ -1,0 +1,7 @@
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Repositories\bin\Debug\HotelManagementSystem.Repositories.dll
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Repositories\bin\Debug\HotelManagementSystem.Repositories.pdb
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Repositories\bin\Debug\HotelManagementSystem.Entities.dll
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Repositories\bin\Debug\HotelManagementSystem.Entities.pdb
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Repositories\obj\Debug\HotelManagementSystem.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Repositories\obj\Debug\HotelManagementSystem.Repositories.dll
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Repositories\obj\Debug\HotelManagementSystem.Repositories.pdb

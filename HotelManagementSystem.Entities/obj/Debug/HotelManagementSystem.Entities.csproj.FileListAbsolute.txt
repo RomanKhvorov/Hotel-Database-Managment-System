@@ -1,0 +1,4 @@
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Entities\bin\Debug\HotelManagementSystem.Entities.dll
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Entities\bin\Debug\HotelManagementSystem.Entities.pdb
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Entities\obj\Debug\HotelManagementSystem.Entities.dll
+C:\Users\Khvorov\Desktop\HotelManagementSystem\HotelManagementSystem.Entities\obj\Debug\HotelManagementSystem.Entities.pdb
