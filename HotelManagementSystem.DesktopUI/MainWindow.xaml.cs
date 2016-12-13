@@ -552,6 +552,7 @@ namespace HotelManagementSystem.DesktopUI
 
         private void WriteInfoAboutGuest(int id)
         {
+            //Review IP: i would rewrite as .GetAllGuests().First(g => g.Id == id)
             var guest = (new SqlGuestRepository(connection)).GetAllGuests().Where(g => g.Id == id).Single();
             var roomsRep = new SqlRoomRepository(connection);
 
@@ -582,6 +583,7 @@ namespace HotelManagementSystem.DesktopUI
             sb.AppendLine("Lviv");
             sb.AppendLine("221 Volodymyra Velykoho st.");
             sb.AppendLine();
+            // Review IP: dont use string concatenation
             sb.AppendLine("Administrator " + CurrentAdministrator.Name);
             sb.AppendLine("----------------------------------");
             sb.AppendLine("Days of accomodation:      " + guestRep.CalculateTheLengthOfStay(id));

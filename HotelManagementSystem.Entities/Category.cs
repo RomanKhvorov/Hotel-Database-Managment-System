@@ -26,6 +26,7 @@ namespace HotelManagementSystem.Entities
         /// </summary>
         public string Name { get; set; }
 
+        //Review IP: instead of creating a bunch of bool fields you could have one bitflag enum
         /// <summary>
         /// Gets or sets availability of TV in the rooms of this category. 
         /// </summary>

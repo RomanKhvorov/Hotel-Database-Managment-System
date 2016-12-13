@@ -21,6 +21,8 @@ namespace HotelManagementSystem.Entities
         /// </summary>
         public int Id { get; set; }
 
+
+        //Review IP: Properties naming convention! (should be CategoryId)
         /// <summary>
         /// Gets or sets id of the category of the room.
         /// </summary>
