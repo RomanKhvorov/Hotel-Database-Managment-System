@@ -17,6 +17,7 @@ namespace HotelManagementSystem.Repositories
     /// </summary>
     public interface IGuestRepository
     {
+        // Review IP: Bad approach to have methods with lot of arguments, use model instead
         /// <summary>
         /// Settles guest to the given room.
         /// </summary>
